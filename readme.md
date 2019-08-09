@@ -4,7 +4,7 @@
 
 百度语音需要去百度智能云注册账号 登录账号 并创建百度语音识别应用 替换掉 voice.py 里面的 AppID 、API Key 、Secret Key三个信息
 
-python voice.py 运行程序 录入你不知道的垃圾名称 来获取是哪种垃圾类别。
+python voice.py 运行程序 录入垃圾名称 来获取是哪种垃圾类别。
 
 友情提示：
 
